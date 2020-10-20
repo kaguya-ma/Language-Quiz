@@ -9,7 +9,7 @@ function startPage() {
 
 function startQuiz() {
   document.querySelector("#sentence").style.display="inline"
-  document.querySelector("#buttonStart").style.display="inline"
+  document.querySelector("#buttonStart").style.display="none"
   document.querySelector("#button1").style.display="inline"
   document.querySelector("#button2").style.display="inline"
   document.querySelector("#button3").style.display="inline"
